@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#right {
+    float: right;
+}
+
+#left {
+    float: left;
+}
+
+nav h1 {
+    padding: 5px;
+    text-align: center;
+    background-color: white; 
+    text-decoration: none;
+    color:black;
+    margin: 0px 2px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 500%;
+}
+
+
+main {
+    padding: 20px 0px;
+    min-height: 800px;
+}
+
+
+footer {
+    text-align: center; 
+    background-color: black; 
+    color:white;
+    padding: 20px;
+    clear: both;   
+}
+
+@font-face {
+    font-family: "HarryPotter";
+}
